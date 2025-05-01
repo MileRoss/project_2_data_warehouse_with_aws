@@ -1,6 +1,6 @@
 # Sparkify: Cloud data warehouse transition project: Songs and Logs
 
-<img src="https://raw.githubusercontent.com/MileRoss/data_engineering_with_AWS/blob/main/2_cloud_data_warehouse/images/2.3_cloud_data_warehouse_project_title_photo.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/MileRoss/data_engineering_with_AWS/main/2_cloud_data_warehouse/images/2.3_cloud_data_warehouse_project_title_photo.jpg" width="50%">
 
 # Purpose
 
